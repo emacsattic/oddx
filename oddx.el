@@ -2,10 +2,10 @@
 
 ;; Copyright (C) 2008 Jonas Bernoulli
 
-;; Author: Jonas Bernoulli <jonas@bernoulli.cc>
+;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Created: 20081202
-;; Updated: 20081202
-;; Version: 0.0.1
+;; Updated: 20081228
+;; Version: 0.0.2
 ;; Homepage: https://github.com/tarsius/oddx
 ;; Keywords: emacswiki
 
